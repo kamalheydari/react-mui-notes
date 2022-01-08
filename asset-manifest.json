@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mui-notes/static/css/main.f42ebea6.chunk.css",
+    "main.js": "/react-mui-notes/static/js/main.8140b4a3.chunk.js",
+    "main.js.map": "/react-mui-notes/static/js/main.8140b4a3.chunk.js.map",
+    "runtime-main.js": "/react-mui-notes/static/js/runtime-main.918db038.js",
+    "runtime-main.js.map": "/react-mui-notes/static/js/runtime-main.918db038.js.map",
+    "static/js/2.0e748c9d.chunk.js": "/react-mui-notes/static/js/2.0e748c9d.chunk.js",
+    "static/js/2.0e748c9d.chunk.js.map": "/react-mui-notes/static/js/2.0e748c9d.chunk.js.map",
+    "index.html": "/react-mui-notes/index.html",
+    "static/css/main.f42ebea6.chunk.css.map": "/react-mui-notes/static/css/main.f42ebea6.chunk.css.map",
+    "static/js/2.0e748c9d.chunk.js.LICENSE.txt": "/react-mui-notes/static/js/2.0e748c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.918db038.js",
+    "static/js/2.0e748c9d.chunk.js",
+    "static/css/main.f42ebea6.chunk.css",
+    "static/js/main.8140b4a3.chunk.js"
+  ]
+}
